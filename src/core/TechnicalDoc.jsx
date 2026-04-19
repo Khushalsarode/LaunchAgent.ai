@@ -21,7 +21,7 @@ const TechnicalDocs = ({ project, data, onUpdate }) => {
     setLoading(true);
     try {
       const genAI = new GoogleGenerativeAI(import.meta.env.VITE_GOOGLE_GENAI_API_KEY);
-      const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
+      const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
 
       const prompt = `Generate technical documentation for the project: ${project.domainName}. 
       Tagline: ${project.tagline}. 

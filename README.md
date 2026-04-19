@@ -24,10 +24,26 @@ The system utilizes a multi-layered approach to project engineering:
 ---
 
 ## ✨ Features
-- **Deterministic Scaffolding:** Generates the high-stakes core logic and security layers of a SaaS application.
-- **On-Chain Originality Proof:** Immutably seals your project metadata on the Solana ledger.
-- **Multimodal Intelligence:** Interactive AI reasoning paired with high-fidelity voice synthesis.
-- **Audit Dashboard:** A pro-tier interface to verify signatures and track ledger diagnostics.
+- **🧠 Intelligent Core**
+`Context-Aware Reasoning:` Leverages a synced state between MongoDB, Gemini API, and the frontend to maintain persistent context, eliminating hallucinations and redundant regenerations.
+
+`RICE Prompt Optimization:` Automatically refines user input using the RICE (Role, Information, Constraints, Expectations) framework to ensure maximum efficiency and high-fidelity outcomes.
+
+`Multimodal Interaction:` A fully voice-enabled chatbot interface powered by ElevenLabs for a seamless, hands-free "Agentic" experience.
+
+- **🛡️ The Origin Shield (Security & Trust)**
+`On-Chain Originality Proof:` Immutably seals project metadata on the Solana Devnet, providing a permanent cryptographic "Proof of Originality."
+
+`Ledger Verification Suite:` A dedicated dashboard to verify on-chain signatures and view real-time transaction details to ensure data integrity.
+
+`Enterprise Identity:` Secured by Auth0 and MongoDB Atlas, ensuring protected access to proprietary project blueprints.
+
+- **🛠️ Deterministic Engineering**
+`Deterministic Scaffolding:` Generates high-stakes architectural cores and security layers that are production-ready.
+
+`Dynamic Domain Analysis:` Automatically performs context-aware domain checks to verify name availability based on your project's unique value proposition.
+
+`Instant Export:` Download your entire generated architecture and logic as a structured ZIP folder for immediate local development.
 
 ---
 
@@ -38,6 +54,7 @@ The system utilizes a multi-layered approach to project engineering:
 - **Database:** MongoDB Atlas
 - **Authentication:** Auth0
 - **Frontend:** React.js, Tailwind CSS, Lucide Icons
+- **Backend:** Node.js, Express.js
 - **State Management:** React Hooks & Context API
 
 ---
@@ -45,10 +62,10 @@ The system utilizes a multi-layered approach to project engineering:
 ## ⚠️ Current Limitations (Work in Progress)
 *As this is a hackathon submission, we are currently addressing the following technical hurdles:*
 
-- **Audio-Operation Flow:** Achieving a perfectly smooth synchronization between ElevenLabs voice output and agentic operations is still being optimized.
-- **Ledger Stability:** Due to the experimental nature of the Solana Devnet public RPCs, transactions and airdrops may occasionally hit rate limits (429 errors).
+- **Audio-Operation Flow:** Achieving a perfectly smooth synchronization between ElevenLabs voice output and agentic operations is still being optimized. (conversion of speech to action is smooth and on point but the UI Action and animation of the agent is not smooth )
+- **Ledger Stability:** Due to the experimental nature of the Solana Devnet public RPCs, transactions and airdrops may occasionally hit rate limits (429 errors).(Issue of Balance and solana in Devnet)
 - **Dynamic Code Fetching:** While the architectural logic is generated, the system currently provides static scaffolds rather than a fully dynamic, end-to-end code fetch for the entire idea context.
-
+(Not a working, to heavy for processing & hold complex nature in logic)
 ---
 
 ## 🚀 Future Roadmap
