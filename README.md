@@ -25,25 +25,25 @@ The system utilizes a multi-layered approach to project engineering:
 
 ## ✨ Features
 - **🧠 Intelligent Core**
-`Context-Aware Reasoning:` Leverages a synced state between MongoDB, Gemini API, and the frontend to maintain persistent context, eliminating hallucinations and redundant regenerations.
+- `Context-Aware Reasoning:` Leverages a synced state between MongoDB, Gemini API, and the frontend to maintain persistent context, eliminating hallucinations and redundant regenerations.
 
-`RICE Prompt Optimization:` Automatically refines user input using the RICE (Role, Information, Constraints, Expectations) framework to ensure maximum efficiency and high-fidelity outcomes.
+- `RICE Prompt Optimization:` Automatically refines user input using the RICE (Role, Information, Constraints, Expectations) framework to ensure maximum efficiency and high-fidelity outcomes.
 
-`Multimodal Interaction:` A fully voice-enabled chatbot interface powered by ElevenLabs for a seamless, hands-free "Agentic" experience.
+- `Multimodal Interaction:` A fully voice-enabled chatbot interface powered by ElevenLabs for a seamless, hands-free "Agentic" experience.
 
 - **🛡️ The Origin Shield (Security & Trust)**
-`On-Chain Originality Proof:` Immutably seals project metadata on the Solana Devnet, providing a permanent cryptographic "Proof of Originality."
+- `On-Chain Originality Proof:` Immutably seals project metadata on the Solana Devnet, providing a permanent cryptographic "Proof of Originality."
 
-`Ledger Verification Suite:` A dedicated dashboard to verify on-chain signatures and view real-time transaction details to ensure data integrity.
+- `Ledger Verification Suite:` A dedicated dashboard to verify on-chain signatures and view real-time transaction details to ensure data integrity.
 
-`Enterprise Identity:` Secured by Auth0 and MongoDB Atlas, ensuring protected access to proprietary project blueprints.
+- `Enterprise Identity:` Secured by Auth0 and MongoDB Atlas, ensuring protected access to proprietary project blueprints.
 
 - **🛠️ Deterministic Engineering**
-`Deterministic Scaffolding:` Generates high-stakes architectural cores and security layers that are production-ready.
+- `Deterministic Scaffolding:` Generates high-stakes architectural cores and security layers that are production-ready.
 
-`Dynamic Domain Analysis:` Automatically performs context-aware domain checks to verify name availability based on your project's unique value proposition.
+- `Dynamic Domain Analysis:` Automatically performs context-aware domain checks to verify name availability based on your project's unique value proposition.
 
-`Instant Export:` Download your entire generated architecture and logic as a structured ZIP folder for immediate local development.
+- `Instant Export:` Download your entire generated architecture and logic as a structured ZIP folder for immediate local development.
 
 ---
 
